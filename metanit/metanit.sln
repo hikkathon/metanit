@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metanit", "metanit\metanit.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate-Application", "Delegate-Application\Delegate-Application.csproj", "{AB6C20C9-F16B-4BCF-88E8-30F8AAC45F58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events-Application", "Events-Application\Events-Application.csproj", "{32558BE0-58F1-4245-A2B2-337A7780590A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AB6C20C9-F16B-4BCF-88E8-30F8AAC45F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6C20C9-F16B-4BCF-88E8-30F8AAC45F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB6C20C9-F16B-4BCF-88E8-30F8AAC45F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32558BE0-58F1-4245-A2B2-337A7780590A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32558BE0-58F1-4245-A2B2-337A7780590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32558BE0-58F1-4245-A2B2-337A7780590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32558BE0-58F1-4245-A2B2-337A7780590A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
