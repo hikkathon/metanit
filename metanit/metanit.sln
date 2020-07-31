@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate-Application", "Del
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events-Application", "Events-Application\Events-Application.csproj", "{32558BE0-58F1-4245-A2B2-337A7780590A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension-Methods-Demo", "Extension-Methods-Demo\Extension-Methods-Demo.csproj", "{CE90CEAB-47DD-4610-BBBE-8DEBF3BC3098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{32558BE0-58F1-4245-A2B2-337A7780590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32558BE0-58F1-4245-A2B2-337A7780590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32558BE0-58F1-4245-A2B2-337A7780590A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE90CEAB-47DD-4610-BBBE-8DEBF3BC3098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE90CEAB-47DD-4610-BBBE-8DEBF3BC3098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE90CEAB-47DD-4610-BBBE-8DEBF3BC3098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE90CEAB-47DD-4610-BBBE-8DEBF3BC3098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
